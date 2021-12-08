@@ -1,5 +1,5 @@
 # Simple-Notes-Application
-This is a simple notes application I made after realizing any other application that I found was too annoying
+This is a simple notes application I made after thinking, why click someone elses notes application that works 50% of the time, when you can click your own notes application that works 51% of the time!
 
 # How To Install
 
